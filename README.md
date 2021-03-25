@@ -6,6 +6,7 @@
 ### Here are some social medias that you can find me:
 
 [<img src="https://img.shields.io/badge/https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-3-512.png****" />](https://twitter.com/nathan_araujos)
+[![texto alternativo](http://i.imgur.com/tXSoThF.png)](http://www.twitter.com/meunome "texto título")
 
 
 ### Some interests:
