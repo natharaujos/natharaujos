@@ -5,9 +5,12 @@
 
 ### Here are some social medias that you can find me:
 
-[<img src="https://img.shields.io/badge/https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-3-512.png****" />](https://twitter.com/nathan_araujos)
-[![linkInstagram](https://cdn1.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Instagram-Outline-512.png)](http://www.twitter.com/meunome "texto título")
+<a target="_blank" href="https://www.linkedin.com/in/nathansaraujo/">
+  <img align="left" alt="LinkedIN" width="25px" src="https://i.imgur.com/RIefvk9.png" /> </a>
 
+<a target="_blank" href="https://www.instagram.com/nathan.araujos">
+  <img align="left" alt="Instagram" width="25px" src="https://i.imgur.com/ISEyV5G.png" />
+</a>
 
 ### Some interests:
 
