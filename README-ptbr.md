@@ -1,5 +1,5 @@
 <p>
-<a href="https://github.com/natharaujos/natharaujos/blob/main/README.md">EN</a> | PT
+<a href="https://github.com/natharaujos/natharaujo/README.md">EN</a> | PT
 </p>
 
 ### Olá 👋
