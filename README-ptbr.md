@@ -7,7 +7,7 @@
  - Atualmente estou trabalhando na Aptum Soluções, como Analista de Testes
  - Graduando em Ciência da Computação na Universidade Federal de Lavras (Ufla) 
 
-### Algumas redes sociais que você pode me encontrar:
+### Algumas redes sociais onde você pode me encontrar:
 
 ---
 
