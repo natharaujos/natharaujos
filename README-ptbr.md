@@ -1,13 +1,13 @@
 <p>
-EN | <a href="https://github.com/natharaujos/natharaujos/blob/main/README-ptbr.md">PT</a>
+<a href="https://github.com/natharaujos/natharaujos/blob/main/README.md">EN</a> | PT
 </p>
 
-### Hi there 👋
+### Olá 👋
 
- - I'm currently working in Aptum Solutions, as Test Analyst
- - Actually, graduating at Computer Science - Federal University of Lavras (Brazil) 
+ - Atualmente estou trabalhando na Aptum Soluções, como Analista de Testes
+ - Graduando em Ciência da Computação na Universidade Federal de Lavras (Ufla) 
 
-### Here are some social medias that you can find me:
+### Algumas redes sociais que você pode me encontrar:
 
 ---
 
@@ -26,7 +26,7 @@ EN | <a href="https://github.com/natharaujos/natharaujos/blob/main/README-ptbr.m
 
 ---
 
-### Some interests:
+### Alguns Interesses:
 
 ![C++](https://img.shields.io/badge/-C++-555555?style=flat&logo=c%2B%2B)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
@@ -41,7 +41,3 @@ EN | <a href="https://github.com/natharaujos/natharaujos/blob/main/README-ptbr.m
 ![Express](https://img.shields.io/badge/-ExpressJS-555555?style=flat&logo=express)
 
 ---
-
-
-
-
