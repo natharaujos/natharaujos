@@ -4,7 +4,7 @@
 
 ### Olá 👋
 
- - Atualmente estou trabalhando na Aptum Soluções, como Analista de Testes
+ - Atualmente estou trabalhando na Dti digital, como Desenvolvedor FullStack Jr
  - Graduando em Ciência da Computação na Universidade Federal de Lavras (Ufla) 
 
 ### Algumas redes sociais onde você pode me encontrar:
