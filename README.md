@@ -4,7 +4,7 @@ EN | <a href="https://github.com/natharaujos/natharaujos/blob/main/README-ptbr.m
 
 ### Hi there 👋
 
- - I'm currently working in Gafit, as Full Stack Developer Jr
+ - I'm currently working in Dti digital, as Full Stack Developer Jr
  - Actually, graduating at Computer Science - Federal University of Lavras (Brazil) 
 
 ### Here are some social medias that you can find me:
